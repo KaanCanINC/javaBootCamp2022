@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\kaanc\Desktop\javaBootCamp2022(2)\.metadata\.plugins\org.eclipse.jdt.core
+4235534654.index
+1865797976.index
+1670916203.index
+3235290869.index
